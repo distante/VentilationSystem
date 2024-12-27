@@ -4,7 +4,7 @@
 
 # Ventilation System
 
-The connection between the "SEC-Touch Zentralregler" and the ESP8266 is made through a pluggable rising clamp. The following sketch shows the assignment of the connection points.
+The connection between the "SEC-Touch Zentralregler" and the ESP8266/ESP32 is made through a pluggable rising clamp. The following sketch shows the assignment of the connection points.
 
 ![sketch - connection between the esp8266 and sec-touch](/doc/sketch.jpg)
 
